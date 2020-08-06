@@ -1,0 +1,31 @@
+{
+  "name": "codeforces-contest-bot",
+  "version": "1.0.0",
+  "description": "Developed by Amey",
+  "main": "script.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yemaedahrav/CFContestBot.git"
+  },
+  "keywords": [
+    "competitive-programming",
+    "javascript",
+    "bot",
+    "codeforces-bot",
+    "yemaedahrav"
+  ],
+  "author": "Amey Varhade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yemaedahrav/CFContestBot/issues"
+  },
+  "homepage": "https://github.com/yemedahrav/CFontestBot#readme"
+}
